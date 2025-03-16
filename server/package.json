@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanjaraiy/BookStore_WebSite.git"
+    "url": "https://github.com/Deepak19d/Book_Shelf.git"
   },
-  "author": "Sanjay Rai",
+  "author": "Deepak Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sanjaraiy/BookStore_WebSite/issues"
+    "url": "https://github.com/Deepak19d/Book_Shelf/issues"
   },
-  "homepage": "https://github.com/sanjaraiy/BookStore_WebSite#readme",
+  "homepage": "https://github.com/Deepak19d/Book_Shelf/blob/main/README.md",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
